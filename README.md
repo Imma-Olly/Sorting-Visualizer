@@ -1,3 +1,5 @@
+The sorting visualizer generates an array of random numbers from 5 to 750 and uses animation to visualize the sorting process.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
